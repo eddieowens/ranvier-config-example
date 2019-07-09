@@ -2,7 +2,7 @@
   "name": "StagingUsers",
   "type": "json",
   "extends": [
-    "../staging.json"
+    "staging.json"
   ],
   "config": {
     "db": {

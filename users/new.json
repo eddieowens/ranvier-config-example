@@ -2,7 +2,7 @@
   "name": "NewConfig",
   "type": "json",
   "extends": [
-    "../staging.json"
+    "staging.json"
   ],
   "config": {
     "value": [

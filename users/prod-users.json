@@ -2,6 +2,6 @@
   "name": "ProdUsers",
   "type": "json",
   "extends": [
-    "../prod.json"
+    "prod.json"
   ]
 }
