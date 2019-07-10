@@ -1,5 +1,4 @@
 {
-  "name": "NewConfig",
   "type": "json",
   "extends": [
     "staging.json"

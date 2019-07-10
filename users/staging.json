@@ -1,5 +1,4 @@
 {
-  "name": "StagingUsers",
   "type": "json",
   "extends": [
     "staging.json"
