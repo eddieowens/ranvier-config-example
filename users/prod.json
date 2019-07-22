@@ -1,5 +1,4 @@
 {
-  "type": "json",
   "extends": [
     "prod.json"
   ]
